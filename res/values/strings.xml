@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Flashlight</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="permlab_flashlight">permlab_flashlight</string>
+    <string name="permdesc_flashlight">permdesc_flashlight</string>
+    <string name="light_button">ON/OFF</string>
+
+</resources>
